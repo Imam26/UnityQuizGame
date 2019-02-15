@@ -1,0 +1,12 @@
+﻿{
+	"allRoundData":
+	[
+		{"name":"ZeroRound", "timeLimitInSeconds":30, "pointsAddedForCorrectAnswer":10, "questions":
+			[
+				{"questionText":"Правда ли, что выше головы не прыгнешь?", "answers":[{"answerText":"True", "isCorrect":true},{"answerText":"False", "isCorrect":false}]},
+				{"questionText":"Два плюс два равно трем?", "answers":[{"answerText":"False", "isCorrect":true},{"answerText":"True", "isCorrect":false}]},
+				{"questionText":"Интернет придумали в Америке?", "answers":[{"answerText":"True", "isCorrect":true},{"answerText":"False", "isCorrect":false}]}
+			]
+		}
+	]
+}
